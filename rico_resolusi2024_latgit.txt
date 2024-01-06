@@ -2,3 +2,5 @@ Resolusi Rico
 -Bisa bahasa html
 -bisa C++
 -bisa Javascript
+-bisa membuat website
+-memiliki badan yang aesthetic
