@@ -3,4 +3,4 @@ Resolusi Rico
 -bisa C++
 -bisa Javascript
 -bisa membuat website
--memiliki badan yang aesthetic
+-hidup bahagia
