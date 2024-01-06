@@ -1,0 +1,4 @@
+Resolusi Rico
+-Bisa bahasa html
+-bisa C++
+-bisa Javascript
