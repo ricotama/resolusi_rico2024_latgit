@@ -1,3 +1,6 @@
 RENCANA RICO
 -Have aesthetic body
 -bisa pemrograman
+*HTML
+*CSS
+*Javascrispt
